@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include whitetheme_v13 *.css
+recursive-include whitetheme_v13 *.csv
+recursive-include whitetheme_v13 *.html
+recursive-include whitetheme_v13 *.ico
+recursive-include whitetheme_v13 *.js
+recursive-include whitetheme_v13 *.json
+recursive-include whitetheme_v13 *.md
+recursive-include whitetheme_v13 *.png
+recursive-include whitetheme_v13 *.py
+recursive-include whitetheme_v13 *.svg
+recursive-include whitetheme_v13 *.txt
+recursive-exclude whitetheme_v13 *.pyc
