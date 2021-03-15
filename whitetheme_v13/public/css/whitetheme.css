@@ -1,0 +1,45 @@
+
+.awesomplete .input-with-feedback {
+    border:1px solid var(--border-color);
+}
+.form-control {
+    border:1px solid var(--border-color);
+}
+.modal-backdrop{
+    background-color: #2c436b !important;
+}
+.widget .widget-head .widget-title {
+    font-size: var(--text-base);
+}
+.comment-box .comment-input-header, .form-dashboard-section .section-head, .form-section .section-head, .head-title {
+    font-size: var(--text-base);
+    font-weight: 600;
+}
+.comment-box .comment-input-container .ql-editor {
+    border:1px solid var(--border-color);
+}
+.control-label {
+    font-weight: 500;
+}
+[data-theme="dark"] {
+    --bg-color: var(--gray-900);
+    --disabled-control-bg: var(--gray-900);
+    --border-color: #1c2126;
+    --margin-lg : 15px;
+    --text-bold: 600;
+}
+
+[data-theme="light"] {
+    --bg-color: #f2f5fa;
+    --text-bold: 600;
+    --control-bg : #fff;
+    --control-bg-on-gray: #d4dcea;
+    --disabled-control-bg: #f2f5fa;
+    --heading-color: #333;
+    /*--border-color: #c5d0e2;*/
+    --border-color:#e3e8f1;
+    --avatar-frame-bg: #dde2ea;
+    --margin-lg: 15px;
+    --sidebar-select-color: #d4dcea;
+    --awesomplete-hover-bg: #d4dcea;
+}
