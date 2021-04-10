@@ -2,7 +2,7 @@
 
 Custom Theme for Frappe/ERPNext v13
 
-![alt text] https://discuss.erpnext.com/uploads/default/original/3X/d/0/d0347964a04a3ba630ba8301be89356a69625358.png)
+![alt text] (https://discuss.erpnext.com/uploads/default/original/3X/d/0/d0347964a04a3ba630ba8301be89356a69625358.png)
 
 To install this theme,
 
